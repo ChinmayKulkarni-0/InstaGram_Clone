@@ -1,4 +1,4 @@
-# flutter_instagram_clone
+# flutter_InstGram_clone
 A new Flutter project.
 
 ## Getting Started
